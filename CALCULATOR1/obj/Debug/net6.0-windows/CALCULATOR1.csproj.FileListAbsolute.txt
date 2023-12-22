@@ -1,0 +1,36 @@
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.exe
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.deps.json
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.runtimeconfig.json
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.dll
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.pdb
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.AssemblyReference.cache
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.Form1.resources
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.GenerateResource.cache
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.AssemblyInfoInputs.cache
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.AssemblyInfo.cs
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.CoreCompileInputs.cache
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.dll
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\refint\CALCULATOR1.dll
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.pdb
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.genruntimeconfig.cache
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\ref\CALCULATOR1.dll
+D:\Visual Studio IDE\Visual Studio Projects\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.Properties.Resources.resources
+E:\Atestat\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.exe
+E:\Atestat\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.deps.json
+E:\Atestat\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.runtimeconfig.json
+E:\Atestat\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.dll
+E:\Atestat\CALCULATOR1\CALCULATOR1\bin\Debug\net6.0-windows\CALCULATOR1.pdb
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.AssemblyReference.cache
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.Form1.resources
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.Properties.Resources.resources
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.GenerateResource.cache
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.AssemblyInfoInputs.cache
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.AssemblyInfo.cs
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.csproj.CoreCompileInputs.cache
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.dll
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\refint\CALCULATOR1.dll
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.pdb
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\CALCULATOR1.genruntimeconfig.cache
+E:\Atestat\CALCULATOR1\CALCULATOR1\obj\Debug\net6.0-windows\ref\CALCULATOR1.dll
